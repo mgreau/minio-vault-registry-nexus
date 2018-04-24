@@ -1,0 +1,9 @@
+= Getting started
+
+[source, shell]
+--
+$ docker-compose up
+--
+
+Then go to http://127.0.0.1:9001/ and log in using values in `.env` file.
+
